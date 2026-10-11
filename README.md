@@ -1,4 +1,3 @@
 DEMO
 
-hello
-cd Demo
+hello vichu
