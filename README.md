@@ -1,3 +1,6 @@
-DEMO
+# Demo Project
 
-hello vichu
+Hello, Vichu!
+
+## About
+This is my first Git and GitHub practice project.
