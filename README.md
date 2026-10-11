@@ -1,3 +1,4 @@
 DEMO
 
 hello
+cd Demo
